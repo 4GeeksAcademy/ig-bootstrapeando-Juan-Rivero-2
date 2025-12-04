@@ -1,0 +1,19 @@
+.instagram-app {
+  width: 950px;
+  margin-top: 50px;
+}
+
+.post-card {
+  width: 450px;
+  margin-top: 20px;
+}
+
+.post-card .card-img-top {
+  height: 300px;       
+  object-fit: cover;   
+}
+
+#grid-view .card-img-top {
+  height: 250px;      
+  object-fit: cover;  
+}
